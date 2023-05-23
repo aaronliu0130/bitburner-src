@@ -183,7 +183,7 @@ export const initSoAAugmentations = (): Augmentation[] => [
     info:
       "Pheromone extruder injected in the thoracodorsal nerve. Emits pleasing scent guaranteed to " +
       "make conversational partners more agreeable.",
-    stats: <>This augmentation makes the Bribe minigame easier by indicating the incorrect paths.</>,
+    stats: <>This augmentation makes the Bribe minigame easier by indicating the incorrect words.</>,
     isSpecial: true,
     factions: [FactionNames.ShadowsOfAnarchy],
   }),
